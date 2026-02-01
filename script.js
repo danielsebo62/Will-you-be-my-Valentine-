@@ -55,11 +55,11 @@
 */
 const messages = [
     "Si si istá?",
-    "Naozaj si si istá??",
-    "Mala by si si to premyslieť...",
-    "Mojko prosím...",
+    "Naozaj, si si istá??",
+    "Mala by si si to ešte premyslieť...",
+    "Mojko, prosím...",
     "Popremýšľaj ešte nad tým!",
-    "Ak povieš nie budem smutný :(",
+    "Ak povieš nie, budem smutný :(",
     "Veľmi, veľmi smutný...",
     "Ja to fakt nezvládnem ak povieš nie...",
     "Ok, už sa prestanem pýtať...",
